@@ -37,7 +37,9 @@ function generateMarkdown(data) {
 
   ## Description
   ${data.Description}
+
   ${data.Repo}
+  
   ${data.Deployed}
 
   ## Installation
