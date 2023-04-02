@@ -1,12 +1,8 @@
 # Readme Generator
 
-- [Installation](#installation)
-
 - [Usage](#usage)
 
 - [Contributors](#contributors)
-
-- [Tests](#tests)
 
 - [Questions](#questions)
 
