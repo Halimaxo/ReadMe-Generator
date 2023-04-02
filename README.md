@@ -30,5 +30,5 @@ Had help from my wonderful tutor Abdullah Al-Hilfi
 
 ## Questions
 
-For further questions reach out to me using my GitHub Profile or email.
+For further questions reach out to me using my GitHub Profile or email:
 Halimaxo
