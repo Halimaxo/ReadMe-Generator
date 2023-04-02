@@ -38,7 +38,7 @@ const questions = [
   },
   {
     type: "input",
-    name: "Contributing",
+    name: "Contributors",
     message: "List the contributers and who can contribute",
   },
   {
@@ -55,6 +55,18 @@ const questions = [
     type: "input",
     name: "Email",
     message: "Enter your email address",
+  },
+  {
+    type: "input",
+    name: "Repo",
+    message:
+      "Insert repo link with the following template: [Repo page](*link*)",
+  },
+  {
+    type: "input",
+    name: "Deployed",
+    message:
+      "Insert deployed page link with the following template: [Deployed page](*link*)",
   },
 ];
 
