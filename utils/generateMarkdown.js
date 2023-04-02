@@ -55,7 +55,7 @@ function generateMarkdown(data) {
   ${data.Tests}
 
   ## Questions 
-  For further questions reach out to me using my GitHub Profile or email.
+  For further questions reach out to me using my GitHub Profile or email: 
   ${data.Questions}
   ${data.Email}
 `;
